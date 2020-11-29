@@ -88,3 +88,21 @@ footer {
 .foot1 i:hover {
   color: #fff;
 }
+
+
+
+
+@media (max-width: 550px) {
+  .section-center {
+    padding: 3px;
+  }
+  form {
+margin-top: 20px 30px;
+display: flex;
+flex-direction: column;
+align-items: center;
+} 
+form > label, input, button {
+  margin: 5px;
+}
+}

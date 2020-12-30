@@ -14,5 +14,5 @@ You can generate one up to nine paragraphs
 
 Open the URL...
 
-https://touraye.github.io/2ray-lorem-ipsum.github.io/
+[See Project](https://touraye.github.io/2ray-lorem-ipsum.github.io/)
 
